@@ -3,6 +3,7 @@ Name:                   Cindy Le
 Email:                  cle15@myseneca.ca
 Date:                   Sep 22, 2017
 Workshop:		At Home
+Description:		Cash Register
 ---------------------------------------------- */
 #include <stdio.h>
 
