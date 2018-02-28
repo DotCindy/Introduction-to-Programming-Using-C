@@ -2,6 +2,8 @@
 Name:                   Cindy Le
 Email:                  cle15@myseneca.ca
 Date:                   Oct 24, 2017
+Workshop:		At Home
+Description:		Temperature Analyzer V2.0
 ---------------------------------------------- */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
