@@ -2,6 +2,7 @@
 Name:                   Cindy Le
 Email:                  cle15@myseneca.ca
 Date:                   Sep 22, 2017
+Workshop:		at_home.cpp
 ---------------------------------------------- */
 #include <stdio.h>
 
