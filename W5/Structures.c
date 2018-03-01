@@ -3,8 +3,8 @@
 Name:                   Cindy Le
 Email:                  cle15@myseneca.ca
 Date:                   Oct 25, 2017
-Workshop:		            At Home
-Description:		        Employee Data
+Workshop:		At Home
+Description:		Employee Data
 ---------------------------------------------- */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
