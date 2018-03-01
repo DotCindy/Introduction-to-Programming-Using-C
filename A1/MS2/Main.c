@@ -2,8 +2,8 @@
 Name:           Cindy Le
 Email:          cle15@myseneca.ca
 Date:           Dec 7, 2017
-Workshop:		    Milestone 2
-Description:		Contact System
+Workshop:	Milestone 2
+Description:	Contact System
 ---------------------------------------------- */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
